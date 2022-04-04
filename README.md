@@ -6,4 +6,5 @@ Practice material for proficiency
 4. Completed
 5. Completed
 6. WIP, needs testing with some form of python pointers. Will look into memory space allocations.
-7. 
+7. WIP
+8. Completed
